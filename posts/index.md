@@ -1,6 +1,6 @@
 ---
 layout: post-index
 image:
-  feature: fm-header-6.jpg
+  feature: Ille_pano.JPG
 title: Posts
 ---
