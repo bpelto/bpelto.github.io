@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Fabien Maussion
-bio: "Climate, glaciers, open science, education, and software development"
+title: Ben Pelto
+bio: "Glaciology, climate, hydrology, remote sensing and open science."
 locale: en_US
 url:
 image:
-  feature: fm-header-1.jpg
+  feature: Conrad_mid_pano.JPG
 
 # Jekyll configuration
 
@@ -28,29 +28,28 @@ kramdown:
 
 # Site owner
 owner:
-  name: Fabien Maussion
-  avatar: fabi-portrait.jpg
-  bio: "Climate, glaciers, open science, education, and software development."
-  github: fmaussion
-  bitbucket: fmaussion
-  orcid: 0000-0002-3211-506X
-  scholar: tTpQiSgAAAAJ
-  mendeley: fabien-maussion
-  researchgate:
+  name: Ben Pelto
+  avatar: ben-portrait.jpg
+  bio: "Glaciology, climate, hydrology, remote sensing and open science."
+  github: bpelto
+  orcid: 0000-0002-3488-3599
+  scholar: 
+  mendeley: 
+  researchgate: Ben M. Pelto
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
-  disqus-shortname: fmaussion
-  twitter: FabClimate
+  disqus-shortname: 
+  twitter: BenPelto
   facebook: #username
-  google:
+  google: #username
     plus: #username
-    analytics: UA-88391345-1
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   linkedin: #username
-  instagram: uibk.climate
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
