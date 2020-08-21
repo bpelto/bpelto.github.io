@@ -1,52 +1,44 @@
 ---
 layout: page
 image:
-  feature: fm-header-3.jpg
+  feature: Conrad_mid_pano.JPG
 title: "Publications and outreach"
 ---
 
 ## Peer-reviewed publications
 
-![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-3211-506X)   
-![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)   
-![Mendeley]({{ site.url }}/images/mendeley.png) [Mendeley](https://www.mendeley.com/profiles/fabien-maussion/)    
-![ResearcherID]({{ site.url }}/images/rid.png) [ResearcherID](http://www.researcherid.com/rid/B-9814-2013)   
+![Orcid]({{ site.url }}/images/orcid.png) [Orcid](https://orcid.org/0000-0002-3488-3599)   
+![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=aadGZFMAAAAJ&hl=en&oi=ao)   
+![ResearchGate]({{ site.url }}/images/researchgate.png) [Research Gate](https://scholar.google.ca/citations?user=aadGZFMAAAAJ&hl=en&oi=ao)   
 
 ## Press (selection)
 
-- [Radio interview](https://pages.rts.ch/la-1ere/programmes/cqfd/9401549-la-fonte-des-glaciers-nest-pas-prete-de-sarreter-26-03-2018.html?mediaShare=1) for the Swiss scientific podcast CQFD (in French; [mp3 download]({{ site.url }}/images/misc/cqfd_20180326_maussion.mp3))
-- [La Croix: Combien reste-il de glace dans les glaciers du monde?](https://www.la-croix.com/Sciences-et-ethique/Environnement/Combien-reste-glace-glaciers-monde-2019-02-12-1201001902) (in French)
-- [Breitbart (?!?): Glaciers are going to keep melting for decades, research predicts](https://www.breitbart.com/news/glaciers-are-going-to-keep-melting-for-decades-research-predicts/)
-- [Carbon Brief: Global warming to date could ‘obliterate’ a third of glacier ice](https://www.carbonbrief.org/global-warming-to-date-could-obliterate-third-glacier-ice)
-- [Phys.org: Glacier mass loss passes the point of no return, researchers report](https://phys.org/news/2018-03-glacier-mass-loss.html)
-- [Süddeutsche Zeitung: Weniger Schmelzwasser aus den Bergen](https://www.sueddeutsche.de/wissen/gletscher-wasser-himalaya-1.4326652) (in German)
-- [EOS: Glacial Census Reveals Ice Thicknesses Around the World](https://eos.org/articles/glacial-census-reveals-ice-thicknesses-around-the-world)
-- [TT: Weltweite Gletschermasse laut Studie bislang deutlich überschätzt](https://www.tt.com/panorama/natur/15318348/weltweite-gletschermasse-laut-studie-bislang-deutlich-ueberschaetzt) (in German)
-- [ORF.at: Weltweit weniger Gletschereis als gedacht](https://science.orf.at/stories/2964037/) (in German)
-- [Krone.at: Gletschereis lässt Meeresspiegel ansteigen](https://www.krone.at/1899960) (in German)
-- [Tiroler Tageszeitung: Große Studie - Gletscher verlieren pro Jahr 335 Mrd. Tonnen Eis](https://www.tt.com/panorama/natur/15520085/grosse-studie-gletscher-verlieren-pro-jahr-335-mrd-tonnen-eis) (in German)
+- [CFUR, The Abstract, Glaciers with Ben Pelto (Radio)](https://anchor.fm/the-abstract/episodes/Episode-1---Glaciers-with-Ben-Pelto-eb8sgd) for the Swiss scientific podcast CQFD.
+- [Prince George Citizen: UNBC PhD candidate measures glacier change in Columbia River basin](https://www.princegeorgecitizen.com/news/local-news/unbc-phd-candidate-measures-glacier-change-in-columbia-river-basin-1.23881343)also in the [UNBC Newsroom](https://www.unbc.ca/newsroom/unbc-stories/unbc-phd-candidate-measures-glacier-mass-change-columbia-river-basin) 
+- [CBC, Daybreak South, radio interview starts at 1:04:30, (8 min)](https://www.cbc.ca/listen/live-radio/1-110-daybreak-south/clip/15725701-hand-research-150-mile-school-house-project-glacier-study-rutland-petition-wellness-column-kelowna-work-program)  .
+- [CBC, Daybreak North, radio interview starts at 1:51:10 (5 min)](https://t.co/rPI2kWgkt0)
 
-## Outreach and education
+## Outreach
 
-[![oggm-edu](https://edu.oggm.org/en/latest/_static/logos/oggm_edu_s_alpha.png)](https://edu.oggm.org)   
+- Central Interior BC Science Exhibition educational/interactive glacier activity booth 
 
-[OGGM-Edu](https://edu.oggm.org), an interactive platform to learn and teach about glaciers
+- 2018 	Caledonia Nordic Club presentation on glacier research and central BC climate and snowpack trends, to compliment a showing of the Saving Snow documentary 
 
-## Online presentations (selection)
+- 2017 	UNBC Geography Club, glaciers and climate change presentation to accompany the showing of Chasing Ice 
 
-<iframe width="752" height="423" src="https://www.youtube.com/embed/ttJMxcwXUjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- 2017 	Nusdeh Yoh Elementary School, glacier presentation/activities with two classes of 5th-7th grade students 
 
-For the [IARPC Glaciers and Sea Level Collaboration Team Meeting](https://www.iarpccollaborations.org/members/documents/16600)
-on the topic of **Modelling ALL the glaciers: Global glacier modeling**. Slides available [here](https://oggm.org/framework_talk/).
+- 2017 	Central Interior BC Science Exhibition educational/interactive glacier activity booth 
 
+- 2017 	Nechako Rotary Club talk, Canadian Glaciers in Decline 
 
-<iframe src="https://player.vimeo.com/video/414727777" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+- 2016 	Kokanee Nature Center, Nelson BC. Oral presentation: Melting Canadian glaciers, what  
 
-For the Austrian Society for Snow and Avalanches (short: [ÖGSL](https://www.oegsl.at/))
-on the topic of **Open source and Open science**. Slides available [here](http://fabienmaussion.info/oegsl_pres_os).
+we know and why it matters 
 
+- 2016 	Association of Canadian Mountain Guides News, Glacier Change Study on Nordic Glacier 
 
-<iframe src="https://player.vimeo.com/video/428194632" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+- 2015-2017  From a Glacier’s Perspective, Guest blog posts: [Spring 2015](http://blogs.agu.org/fromaglaciersperspective/2015/06/15/kokanee-glacier-spring-2015-assessment-british-columbia/), [Spring 2016](http://blogs.agu.org/fromaglaciersperspective/2016/06/23/canadian-columbia-basin-glacier-spring-2016-field-season-winter-2015-2016-assessment/), [Fall 2016](http://blogs.agu.org/fromaglaciersperspective/2016/12/28/canadian-columbia-basin-glacier-fall-2016-field-season/), [Spring 2017 ](https://blogs.agu.org/fromaglaciersperspective/2017/08/14/canadian-columbia-river-basin-winter-2016-2017-late-rally/)
 
-For the [ACINN graduate seminar](https://www.uibk.ac.at/acinn/graduate-seminar/index.html.en)
-on the topic of **OGGM-Edu: an interactive platform to learn and teach about glaciers**. Slides available [here](https://github.com/OGGM/oggm-edu-talk/raw/master/oggm-edu-talk.pdf)
+## Online presentations 
+
