@@ -12,7 +12,7 @@ title: "About"
 </footer>
 
 
-I am a PhD student at the University of Northern British Columbia [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/).
+I am a PhD student at the University of Northern British Columbia [Department of Geography](http://acinn.uibk.ac.at/).
 
 
 I have a MSc in Geoscience from the University of Massachusetts Amherst where I studying paleoceanography under the direction of Dr. Julie Brigham-Grette.
