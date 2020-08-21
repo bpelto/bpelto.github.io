@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: Bugaboo_pano.JPG
+  feature: conrad_summit_pano.JPG
 title: "About"
 modified: 2020-08-19
 ---
