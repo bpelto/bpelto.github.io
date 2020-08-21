@@ -9,7 +9,7 @@ title: "Publications and outreach"
 
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](https://orcid.org/0000-0002-3488-3599)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=aadGZFMAAAAJ&hl=en&oi=ao)   
-![ResearchGate]({{ site.url }}/images/researchgate.png) [Research Gate](https://scholar.google.ca/citations?user=aadGZFMAAAAJ&hl=en&oi=ao)   
+![ResearchGate]({{ site.url }}/images/researchgate.png) [Research Gate](https://www.researchgate.net/profile/Ben_Pelto)   
 
 ## Press (selection)
 
@@ -21,23 +21,13 @@ title: "Publications and outreach"
 ## Outreach
 
 - Central Interior BC Science Exhibition educational/interactive glacier activity booth 
-
 - 2018 	Caledonia Nordic Club presentation on glacier research and central BC climate and snowpack trends, to compliment a showing of the Saving Snow documentary 
-
 - 2017 	UNBC Geography Club, glaciers and climate change presentation to accompany the showing of Chasing Ice 
-
 - 2017 	Nusdeh Yoh Elementary School, glacier presentation/activities with two classes of 5th-7th grade students 
-
 - 2017 	Central Interior BC Science Exhibition educational/interactive glacier activity booth 
-
 - 2017 	Nechako Rotary Club talk, Canadian Glaciers in Decline 
-
-- 2016 	Kokanee Nature Center, Nelson BC. Oral presentation: Melting Canadian glaciers, what  
-
-we know and why it matters 
-
+- 2016 	Kokanee Nature Center, Nelson BC. Oral presentation: Melting Canadian glaciers, what we know and why it matters 
 - 2016 	Association of Canadian Mountain Guides News, Glacier Change Study on Nordic Glacier 
-
 - 2015-2017  From a Glacier’s Perspective, Guest blog posts: [Spring 2015](http://blogs.agu.org/fromaglaciersperspective/2015/06/15/kokanee-glacier-spring-2015-assessment-british-columbia/), [Spring 2016](http://blogs.agu.org/fromaglaciersperspective/2016/06/23/canadian-columbia-basin-glacier-spring-2016-field-season-winter-2015-2016-assessment/), [Fall 2016](http://blogs.agu.org/fromaglaciersperspective/2016/12/28/canadian-columbia-basin-glacier-fall-2016-field-season/), [Spring 2017 ](https://blogs.agu.org/fromaglaciersperspective/2017/08/14/canadian-columbia-river-basin-winter-2016-2017-late-rally/)
 
 ## Online presentations 
