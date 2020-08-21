@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: fm-header-1.jpg
+  feature: ben_conrad.jpg
 title: "About"
 ---
 
