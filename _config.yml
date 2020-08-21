@@ -29,11 +29,11 @@ kramdown:
 # Site owner
 owner:
   name: Ben Pelto
-  avatar: ben-portrait.jpg
+  avatar: ben_conrad.jpg
   bio: "Glaciology, climate, hydrology, remote sensing and open science."
   github: bpelto
   orcid: 0000-0002-3488-3599
-  scholar: 
+  scholar: https://scholar.google.com/citations?user=aadGZFMAAAAJ&hl=en
   mendeley: 
   researchgate: Ben M. Pelto
   stackoverflow: #http://stackoverflow.com/users/123456/username
