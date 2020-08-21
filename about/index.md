@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: fm-header-8.jpg
+  feature: Bugaboo_pano.JPG
 title: "About"
 modified: 2020-08-19
 ---
