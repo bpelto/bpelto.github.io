@@ -1,14 +1,25 @@
 ---
 layout: page
 image:
-  feature: fm-header-2.jpg
+  feature: Conrad_mid_pano.JPG
 title: "Research"
-modified: 2016-05-09
+modified: 2020-08-24
 ---
 
 My research interests are broad and varied, and I particularly like to mix and merge
 methods and models across disciplines. Here are some of the
-topics I am interested into:
+topics I am interested in:
+
+### Glaciological and geodetic mass balance
+
+<figure>
+    <a href="/images/research/conrad_elev_change_hshd_2014_2018.png" >
+    <img src="/images/research/conrad_elev_change_hshd_2014_2018.png" alt="missing" width="100%" />
+    </a>
+    <figcaption>Figure: Conrad Glacier LiDAR-derived annual surface height change for (left to right) 2014--2015, 2015--2016, 2016--2017, 2017--2018, and cumulatively 2014--2018. </figcaption>
+</figure>
+
+**Relevant publications:** [Pelto et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html);
 
 ### Glaciological modeling at regional and global scales
 
@@ -22,7 +33,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/)
+**Relevant publications:** [Pelto et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/)
 
 ### Climate controls on glacier mass-balance
 

@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: Bugaboo_pano.JPG
+  feature: bugaboo_pano.jpg
 title: "About"
 ---
 
@@ -21,7 +21,7 @@ My masters degree (MSc in Geoscience), from the University of Massachusetts Amhe
 Prior to attending UMass Amherst, I graduated from Alfred University in 2012 with a B.A. in Geology and Environmental Studies.
 
 ![UNBC Logo](/images/unbc_logo_green.gif)
-{: .image-pull-right .max-width-10}
+{: .image-pull-right .max-width-5}
 
 ### Contact
 <p>
