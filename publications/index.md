@@ -34,3 +34,7 @@ title: "Publications and outreach"
 
 ## Online presentations 
 
+- [Webinar, Glaciers in the Candaian Columbia Basin (14 min)](https://youtu.be/Ce3wEzEva48?t=2283) 
+- [Monitoring British Columbia Glaciers (2.5 min)](https://www.youtube.com/watch?v=bEzAA-lkpQ4)
+- [Multi-faceted Approach to Studying Glacier Mass Change in the Columbia and Rocky Mountains (18 min)](https://www.youtube.com/watch?v=0KA5J0AF3zU)
+
