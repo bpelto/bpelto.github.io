@@ -13,14 +13,16 @@ title: "Publications and outreach"
 
 ## Press (selection)
 
-- [CFUR, The Abstract, Glaciers with Ben Pelto (Radio)](https://anchor.fm/the-abstract/episodes/Episode-1---Glaciers-with-Ben-Pelto-eb8sgd) for the Swiss scientific podcast CQFD.
+- [PICS, First major study of Columbia Basin reveals glaciers are 38% thicker than originally thought](https://pics.uvic.ca/research/first-major-study-columbia-basin-reveals-glaciers-are-38-thicker-originally-thought).
+- [UVIC, Canada’s Columbia glaciers unexpectedly big, but at climate risk](https://www.uvic.ca/news/media/2020+columbia-glaciers-pics-benpelto+media-release).
+- [CFUR, The Abstract, Glaciers with Ben Pelto (Radio)](https://anchor.fm/the-abstract/episodes/Episode-1---Glaciers-with-Ben-Pelto-eb8sgd)
 - [Prince George Citizen: UNBC PhD candidate measures glacier change in Columbia River basin](https://www.princegeorgecitizen.com/news/local-news/unbc-phd-candidate-measures-glacier-change-in-columbia-river-basin-1.23881343)also in the [UNBC Newsroom](https://www.unbc.ca/newsroom/unbc-stories/unbc-phd-candidate-measures-glacier-mass-change-columbia-river-basin) 
 - [CBC, Daybreak South, radio interview starts at 1:04:30, (8 min)](https://www.cbc.ca/listen/live-radio/1-110-daybreak-south/clip/15725701-hand-research-150-mile-school-house-project-glacier-study-rutland-petition-wellness-column-kelowna-work-program)  .
 - [CBC, Daybreak North, radio interview starts at 1:51:10 (5 min)](https://t.co/rPI2kWgkt0)
 
 ## Outreach
 
-- Central Interior BC Science Exhibition educational/interactive glacier activity booth 
+- 2019  Central Interior BC Science Exhibition educational/interactive glacier activity booth 
 - 2018 	Caledonia Nordic Club presentation on glacier research and central BC climate and snowpack trends, to compliment a showing of the Saving Snow documentary 
 - 2017 	UNBC Geography Club, glaciers and climate change presentation to accompany the showing of Chasing Ice 
 - 2017 	Nusdeh Yoh Elementary School, glacier presentation/activities with two classes of 5th-7th grade students 
