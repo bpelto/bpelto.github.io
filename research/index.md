@@ -23,16 +23,24 @@ My research interests are broad and varied, I am most passionate about the nexus
 
 ### Ice dynamics modeling at local and regional scales
 
-More information coming shortly pending publication of Pelto et al. (In press) Bias-corrected estimates of glacier thickness in the Columbia River Basin, Canada.
+Pelto et al. (2020) Bias-corrected estimates of glacier thickness in the Columbia River Basin, Canada.
 
 <figure>
-    <a href="/images/research/Fig_OGGM.jpg" >
-    <img src="/images/research/Fig_OGGM.jpg" alt="missing" width="100%" />
+    <a href="/images/research/JOG-20-0065_Figure2.pdf" >
+    <img src="/images/research/JOG-20-0065_Figure2.pdf" alt="missing" width="100%" />
     </a>
-    <figcaption>Figure: Ice thickness maps.</figcaption>
+    <figcaption>Figure: Ice thickness measurements (Table 2) for (a) Kokanee, (b) Haig, (c) Conrad, (d) West Washmawapta, (e) Illecillewaet, (f) Nordic and (g) Zillmer glaciers. Coordinates are °N and °W. Scale differs among glaciers. Figures S1–S7 contain detailed maps with LiDAR DEM hillshades.</figcaption>
 </figure>
 
-**Relevant publications:** [Pelto et al., 2020](TBD).
+<figure>
+    <a href="/images/research/JOG-20-0065_Figure6.pdf" >
+    <img src="/images/research/JOG-20-0065_Figure6.pdf" alt="missing" width="100%" />
+    </a>
+    <figcaption>Figure: Optimized ice thickness for (a) Kokanee, (b) Haig, (c) Conrad, (d) West Washmawapta, (e) Illecillewaet, (f) Nordic and (g) Zillmer glaciers. </figcaption>
+</figure>
+
+**Relevant publications:** 
+[Pelto et al., 2020](https://www.cambridge.org/core/journals/journal-of-glaciology/article/biascorrected-estimates-of-glacier-thickness-in-the-columbia-river-basin-canada/E8DCB7FAF1A5DF21CC529ADA6844B1B4).
 
 ### Climate controls on glacier mass-balance
 
