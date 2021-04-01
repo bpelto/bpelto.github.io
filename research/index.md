@@ -43,13 +43,18 @@ Pelto et al. (2020) Bias-corrected estimates of glacier thickness in the Columbi
 [Pelto et al., 2020](https://www.cambridge.org/core/journals/journal-of-glaciology/article/biascorrected-estimates-of-glacier-thickness-in-the-columbia-river-basin-canada/E8DCB7FAF1A5DF21CC529ADA6844B1B4).
 
 ### Mass balance gradients from ice flux
-
+Currently in review in the Journal of Geophysical Research
 
 ### Current Projects
-* [MITACS: Cumulative effects of climate and land cover change on river flows in mountain catchments](TBD) (2020-2022, Post Doc)
-* [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2022, PI)
+* [Cumulative effects of climate and land cover change on river flows in mountain catchments]() (2020-2022, Postdoc)
+* [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2022, co-PI)
+* [Surface mass-balance gradients from elevation and ice flux data in the Columbia Basin, Canada]() (2020-2021, PhD)
 
 ### Past Projects
+* [Canadian Columbia Basin Glacier and Snow Research Network](https://ourtrust.org/?ddownload=19532)(2014--2020, PhD)
+* [Pelto et al., 2020](https://www.cambridge.org/core/journals/journal-of-glaciology/article/biascorrected-estimates-of-glacier-thickness-in-the-columbia-river-basin-canada/E8DCB7FAF1A5DF21CC529ADA6844B1B4) (2015--2020, PhD)
+* [Pelto et al., (2019) Multi-year evaluation of airborne geodetic surveys to estimate seasonal mass balance, Columbia and Rocky Mountains, Canada](https://tc.copernicus.org/articles/13/1709/2019/) (2014--2019, PhD)
+
 
 ### Grants
 * [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2021-2022, co-PI, $10,000)
