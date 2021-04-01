@@ -6,7 +6,7 @@ title: "Research"
 modified: 2020-08-24
 ---
 
-My research interests are broad and varied, I am most passionate about the nexus of climate and the cryosphere, particularly relating to water resources. I am most interested in collecting quality observational data to better inform and validate geodetic data to examine large-scale glacier change; and to use quality direct observations and remote sensing to calibrate and validate local- to regional- scale physical models of glacier evolution. This topics are outlined here:
+My research interests are broad and varied, I am most passionate about the nexus of climate and the cryosphere, particularly relating to water resources. I am most interested in collecting quality observational data to better inform and validate geodetic data to examine large-scale glacier change, and to use direct observations and remote sensing to calibrate and validate local- to regional- scale physical models of glacier evolution. These topics are outlined here:
 
 ### Glaciological and geodetic mass balance
 
@@ -26,15 +26,15 @@ My research interests are broad and varied, I am most passionate about the nexus
 Pelto et al. (2020) Bias-corrected estimates of glacier thickness in the Columbia River Basin, Canada.
 
 <figure>
-    <a href="/images/research/JOG-20-0065_Figure2.pdf" >
-    <img src="/images/research/JOG-20-0065_Figure2.pdf" alt="missing" width="100%" />
+    <a href="/images/research/JOG-20-0065_Figure2.png" >
+    <img src="/images/research/JOG-20-0065_Figure2.png" alt="missing" width="100%" />
     </a>
     <figcaption>Figure: Ice thickness measurements (Table 2) for (a) Kokanee, (b) Haig, (c) Conrad, (d) West Washmawapta, (e) Illecillewaet, (f) Nordic and (g) Zillmer glaciers. Coordinates are °N and °W. Scale differs among glaciers. Figures S1–S7 contain detailed maps with LiDAR DEM hillshades.</figcaption>
 </figure>
 
 <figure>
-    <a href="/images/research/JOG-20-0065_Figure6.pdf" >
-    <img src="/images/research/JOG-20-0065_Figure6.pdf" alt="missing" width="100%" />
+    <a href="/images/research/JOG-20-0065_Figure6.png" >
+    <img src="/images/research/JOG-20-0065_Figure6.png" alt="missing" width="100%" />
     </a>
     <figcaption>Figure: Optimized ice thickness for (a) Kokanee, (b) Haig, (c) Conrad, (d) West Washmawapta, (e) Illecillewaet, (f) Nordic and (g) Zillmer glaciers. </figcaption>
 </figure>
@@ -42,22 +42,16 @@ Pelto et al. (2020) Bias-corrected estimates of glacier thickness in the Columbi
 **Relevant publications:** 
 [Pelto et al., 2020](https://www.cambridge.org/core/journals/journal-of-glaciology/article/biascorrected-estimates-of-glacier-thickness-in-the-columbia-river-basin-canada/E8DCB7FAF1A5DF21CC529ADA6844B1B4).
 
-### Climate controls on glacier mass-balance
+### Mass balance gradients from ice flux
 
 
-### Open science
-
-I am fascinated by the opportunities offered by sharing our data and methods more efficiently and more transparently. I am an enthusiast [open-source programmer]({{ site.url }}/software), and most of the research data and the publications I contributed to are open access. My glaciological balance data are submitted to the World Glacier Montioring Service's (WGMS) [Fluctuations of Glaciers Database](https://wgms.ch/data_databaseversions/). My ice thickness data are submitted to the WGMS [Glacier ice thickness database (GlaThiDa)](https://www.gtn-g.ch/data_catalogue_glathida/). 
-
-
-## Grants:
-
-### Current
+### Current Projects
 * [MITACS: Cumulative effects of climate and land cover change on river flows in mountain catchments](TBD) (2020-2022, Post Doc)
-* [BC Parks Living Labs: Kokanee Glacier mass balance](https://agroclim-huaraz.info/) (2020-2021, PI)
+* [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2022, PI)
 
-### Past
-* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2019, PhD Project)
-* [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](http://acinn.uibk.ac.at/research/ice-and-climate/projects/climvar) (2010-2014, Post Doc)
-* [Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet_wet&lan=en) (2011-2014, Scientific Coordinator)
-* [Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet&lan=en) (2008-2014, PhD project)
+### Past Projects
+
+### Grants
+* [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2021-2022, co-PI, $10,000)
+* [BC Parks Living Labs: Kokanee Glacier Climate Project](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2021, co-PI, $10,000)
+
