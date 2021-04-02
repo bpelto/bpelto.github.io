@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: Conrad_mid_pano.JPG
+  feature: bugaboo_pano.jpg
 title: "Publications"
 ---
 
@@ -41,5 +41,5 @@ title: "Publications"
 
 * Illecillewaet Glacier Mass Balance 2009-2017, Parks Canada, Glacier National Park, (2017)
 
-
+Panorama: View south from the summit of Mt. Conrad 3290 m, looking into the Bugaboo Spires 
 

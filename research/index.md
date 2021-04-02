@@ -60,3 +60,5 @@ Currently in review in the Journal of Geophysical Research
 * [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2021-2022, co-PI, $10,000)
 * [BC Parks Living Labs: Kokanee Glacier Climate Project](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2021, co-PI, $10,000)
 
+Panorama: The upper portion of the valley tongue of Conrad Glacier in 2018.
+
