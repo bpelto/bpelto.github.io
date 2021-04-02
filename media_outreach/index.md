@@ -29,6 +29,8 @@ title: "Media coverage and outreach"
 
 ## Outreach
 - 2021  Grad school information night, UNBC, Q&A with prospective graduate students
+- 2020  Crescent Spur Heliskiing, The state of glaciers and glacier research in British Columbia
+- 2019  Backcountry Lodges of British Columbia Association AGM, Kelowna, BC, Glacier Mass Change in the Columbia and Rocky Mountains, Canada 
 - 2019  Central Interior BC Science Exhibition educational/interactive glacier activity booth 
 - 2018 	Caledonia Nordic Club presentation on glacier research and central BC climate and snowpack trends, to compliment a showing of the Saving Snow documentary 
 - 2017 	UNBC Geography Club, glaciers and climate change presentation to accompany the showing of Chasing Ice 

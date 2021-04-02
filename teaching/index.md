@@ -8,11 +8,11 @@ modified: 2020-22-08
 
 ### Geomorphology 210
 
-I taught two 20-student 3-hour lab sections of Geomorphology 210 as a lab instructor. I greatly enjoyed the experience, but did not work as a TA again at UNBC due to field work demands as a part of the [CCRBSGRN](https://ourtrust.org/new-research-available-columbia-basin-glaciers/) and the data-intensive nature of my PhD.
+I taught two 20-student 3-hour lab sections of Geomorphology 210 as a lab instructor. I greatly enjoyed the experience, but did not work as a TA again at UNBC due to field work demands of the [CCRBSGRN](https://ourtrust.org/new-research-available-columbia-basin-glaciers/) and the data-intensive nature of my PhD.
 
-I did however give a number of guest lectures:
+I have also given a number of guest lectures:
 
-- 2021, Snow and Ice 454, Glacier mass balance [Lecture slides](/teaching/glacier_mass_balance_snow_and_ice_lecture2021.pdf)
+- 2021, Snow and Ice 454, Glacier mass balance, UNBC [Lecture slides](/teaching/glacier_mass_balance_snow_and_ice_lecture2021.pdf)
 
 - 2020    Snow and Ice 454, Glacier mass balance, UNBC 
 
@@ -20,9 +20,7 @@ I did however give a number of guest lectures:
 
 - 2018	Quaternary and Surficial Geology 411, Oceanographic and climatic change in the Bering Sea, Last Glacial Maximum to Holocene, UNBC 
 
-- 2018 	Climate Science Informal Seminar, Seasonal glacier mass balance from airborne laser  
-
-altimetry, Columbia River Basin, Canada, UNBC 
+- 2018 	Climate Science Informal Seminar, Seasonal glacier mass balance from airborne laser altimetry, Columbia River Basin, Canada, UNBC 
 
 - 2018	Snow and Ice 454, Introduction to Glaciers 
 
