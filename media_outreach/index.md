@@ -28,6 +28,7 @@ title: "Media coverage and outreach"
 - [CBC, Daybreak North, radio interview starts at 1:51:10 (5 min)](https://t.co/rPI2kWgkt0)
 
 ## Outreach
+- 2021  Canadian Rockies Youth Summit Panel, Climate Change and Glaciers in the Canadian Rockies, Presentation and Q&A 
 - 2021  Grad school information night, UNBC, Q&A with prospective graduate students
 - 2020  Crescent Spur Heliskiing, The state of glaciers and glacier research in British Columbia
 - 2019  Backcountry Lodges of British Columbia Association AGM, Kelowna, BC, Glacier Mass Change in the Columbia and Rocky Mountains, Canada 
