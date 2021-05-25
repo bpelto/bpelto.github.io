@@ -23,7 +23,7 @@ My masters degree (MSc in Geoscience), from the University of Massachusetts Amhe
 
 Prior to attending UMass Amherst, I graduated from Alfred University in 2012 with a B.A. in Geology and Environmental Studies.
 
-![UNBC Logo](/images/UBC-logo-2018-fullsig-blue-rgb300.png)
+![UBC Logo](/images/UBC-logo-2018-fullsig-blue-rgb300.png)
 {: .image-pull-right .max-width-4}
 
 ### Contact
