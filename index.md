@@ -28,5 +28,4 @@ Prior to attending UMass Amherst, I graduated from Alfred University in 2012 wit
 I live in North Vancouver, British Columbia. I can be reached at ben.pelto@ubc.ca, or peltoglacier@gmail.com.
 
 ![UBC Logo](/images/UBC-logo-2018-fullsig-blue-rgb300.png)
-<> {: .image-pull-right .max-width-4}
-<> Testing
+
