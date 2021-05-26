@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fm-header-6.jpg
+  feature: kokanee_peak_pano.JPG
 title: A year in the life of Kokanee Glacier
 ---
 
