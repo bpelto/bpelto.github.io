@@ -1,46 +1,48 @@
 ---
 layout: post
 image:
-  feature: cond_peak_pano.JPG
-title: A year in the life of Kokanee Glacier
-date: 2021-03-01T00:00:00
+  feature: Ille_pano.JPG
+title: Illecillewaet Glacier ice thickness survey
+date: 2021-05-28T00:00:00
 draft: false
 comments: true
 modified:
 categories:
-excerpt: " hiking, working, and sleeping in the smoke was taking its toll on us, and on the glacier"
+excerpt: "maximum ice thickness for the Illecillewaet Glacier was 260 meters"
 ---
 
-With the onset of Covid-19, we scrapped plans to visit the Kokanee Glacier in spring 2020. Normally we visit in both April and September.  In April we measure the total snow that accumulated on the glacier during winter whereas in September we measure the total melting of snow and ice that occurred during summer.  Combined, these surveys allow us to determine how much water the Kokanee Glacier gained or lost during a given year. On September 11, 2020, our team of three headed out from the Gibson Lake Trailhead up the steep Keyhole Route with a BC Park Ranger along to help haul our heavy research equipment. We set up camp that evening on a rock outcrop near the top of the glacier. The next morning, we set off down the glacier, all the way to the terminus, or bottom end, of the Kokanee Glacier. There we found our lowest stake, left the previous year: a 5-metre aluminum pole sticking out of the ice. We measured how much ice had melted since last September—250 centimeters—then pulled the stake out.  Using an ice auger we drilled a new hole for the stake, to visit and measure again next season (our auger operates like an ice fishing auger but is stronger, longer & thinner). Then we began climbing back up the glacier, measuring and redrilling each stake – about 15 in all, placed every 100 metres in elevation. Partway up the glacier, we hit the snow line. 
+<i> The panorama above shows ski tracks from towing the radar across Illecillewaet Glacier—starting from the camp on Lookout Mountain (far right) heading toward Mount Sir Donald, with its summit in the clouds.</i>
+
+# Rationale
+During the past ten years, Parks Canada has supported studies to monitor the state of and changes in the Illecillewaet Glacier. Measuring ice thickness provides insight into how much ice the Illecillewaet Glacier contains and contextualizes the current thinning of the glacier as measured annually by Parks Canada since 2009. Ice thickness data for the region is sparse; therefore, any contribution improves our understanding of how much ice exists in Glacier National Park and in the Columbia and Rocky Mountains of western Canada. Detailed regional estimates of glacier ice thickness foster better projections of the glacier response to climate change and the associated hydrologic implications of reduced glacier area. 
+
+# Objectives
+1.	 To collect ground penetrating radar (GPR) data over the Illecillewaet Glacier.
+2.	 Process the radar data to map the ice thickness of the Illecillewaet Glacier.
+
+# Methods
+To obtain the ice thickness, GPR surveys were conducted in May 2016 and May 2018 on the Illecillewaet Glacier. A Blue Systems Integration radar system was used, employing 10 MHz center frequency antennas with an 1100 V transmitter. A team of four skiers operated the radar, pulling the sleds that housed both the receiving computer and transmitter. Ice thickness measurements were collected along longitudinal and cross-profiles approximately every 5 m. Data collection was dependent upon slope and other safety concerns. Ice thickness was extracted using IcePick software that incorporates the travel time of a radar wave through ice.
+
+# Results
+During the two survey visits, 41 km of ice thickness data over the glacier were collected, of which 38 km was successfully processed. As of 2018, the average ice thickness for the Illecillewaet Glacier was ~110 m. Maximum depth was 260 m, and minimum depth, near the glacier margin, was 8 m. Parks Canada plans to use the outcome of this work in future glacier monitoring and reporting.
 
 <figure>
-    <a href="/images/posts/Kokanee/Kokanee_snowline.JPG" >
-    <img src="/images/posts/Kokanee/Kokanee_snowline.JPG" alt="Image missing" width="100%" />
+    <a href="/images/posts/illec_radar/Illecillewaet_ice_thickness.png" >
+    <img src="/images/posts/illec_radar/Illecillewaet_ice_thickness.png" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The team travelling up Kokanee Glacier. The snowline can be clearly seen, where the glacier transitions from losing to gaining mass.</figcaption>
+    <figcaption>Map of the pathway of travel used to detect ice thickness over the Illecillewaet Glacier. Thick lines show the 38 km of radar data that was successfully processed and the associated depth.</figcaption>
 </figure>
 
-Stepping off the ice and onto the snow, our techniques change from measuring ice ablation to measuring snow depth and density. We take snow depth measurements using a beefy avalanche probe (heavier and stronger than those used for backcountry skiing). We also dug a deep snow pit to measure the snow density. Snow and glacier ice are both reported in metres of water equivalent, or how deep a column of water would be if you melted the snow or ice. Combining the depth and density of snow or ice at a given point tells us how much material in water-equivalent has been lost or gained. Back in camp, we made dinner on the rocks, then hiked to the ridgeline and enjoyed a gorgeous sunset. We slept out under the stars, but the next morning, instead of a light forest fire haze, the sky was grey with smoke. We worked our way east across the glacier, adding a new line of stakes to measure part of the glacier we previously had not been to regularly. 
+# Partners & Funding
+University of Northern British Columbia, Parks Canada
+
+This post was my entry in the Parks Canada report: "<i>Mount Revelstoke and Glacier National Parks Resource Conservation Research and Monitoring Summary 2012–2018</i>.
 
 <figure>
-    <a href="/images/posts/Kokanee/Kokanee_layers.JPG" >
-    <img src="/images/posts/Kokanee/Kokanee_layers.JPG" alt="Image missing" width="100%" />
+    <a href="/images/posts/illec_radar/adam_margot.JPG" >
+    <img src="/images/posts/illec_radar/adam_margot.JPG" alt="Image missing" width="90%" />
     </a>
-    <figcaption>Annual layers outcrop on Kokanee Glacier, each annual layer is separated by a dark ring, where dirt, ash, dust and organic material build up during the melt season</figcaption>
+    <figcaption>Adam Hawkins minds the transmitter box (rear) while Margot Vore minds the receiving computer box, keeping them in line as the team pulls the radar up glacier.</figcaption>
 </figure>
 
-On our way, we stumbled across what appeared to be wolf tracks! The wolf had used the side of the glacier as a quick way from one valley to another. Without much knowledge of wolves, I’d guess that using the snow is faster, easier on the feet, cooler...and more fun than the alternative routes which are quite rocky. Finishing our work, we headed back to camp, but hiking, working, and sleeping in the smoke was taking its toll on us, and on the glacier. 
-
-<figure>
-    <a href="/images/posts/Kokanee/Cond_peak_smoke.JPG" >
-    <img src="/images/posts/Kokanee/Cond_peak_smoke.JPG" alt="Image missing" width="100%" />
-    </a>
-    <figcaption> The upper part of Kokanee Glacier and Cond Peak with thick forest fire smoke. Grey-brown streaks on the snow are deposits of ash from forest fires and darken the surface, causing faster melt. </figcaption>
-</figure>
-
-We had originally planned to spend another night and hike out in the morning, but with the charm of the site ruined and our lungs begging for a reprieve, we broke camp and began the steep slog down the Keyhole and back to Nelson. Later, at the University of Northern British Columbia, I sat down to figure out the mass balance for Kokanee Glacier (accumulation minus melt loss). Our research has shown that from 2013 to 2020, Kokanee Glacier lost on average the equivalent of a 42-cm-thick slice of ice off the glacier. It turned out that 2020 was a normal year for Kokanee Glacier: The glacier lost 41 cm of ice. We’ll be back in April 2021 to visit the Kokanee, gathering more data to forecast if and when Kokanee Glacier Provincial Park will lose its namesake glacier. 
-
-
-<!-- * [Back to the trek's homepage]({{ site.url }}/2017/09/17/iceland-trek/) -->
-<!-- * [Day One: from Skaftafell to Blátindur]({{ site.url }}/posts/iceland_trek/01_day) -->
 
