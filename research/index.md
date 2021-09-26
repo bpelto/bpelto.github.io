@@ -48,6 +48,15 @@ Currently in review in the Journal of Geophysical Research
 ### Current Projects
 * [Cumulative effects of climate and land cover change on river flows in mountain catchments]() (2020-2022, Postdoc)
 * [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2022, co-PI)
+
+
+<figure>
+    <a href="/images/research/Kokanee_terminus_2015_2021.gif" >
+    <img src="/images/research/Kokanee_terminus_2015_2021.gif" alt="missing" width="100%" />
+    </a>
+    <figcaption>GIF: Kokanee Glacier terminus 2015-2021 from 1-m-resolution LiDAR DEMs. Retreat of 140 m, 23 m year.  </figcaption>
+</figure>
+
 * [Surface mass-balance gradients from elevation and ice flux data in the Columbia Basin, Canada]() (2020-2021, PhD)
 
 ### Past Projects
