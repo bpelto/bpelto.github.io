@@ -10,7 +10,7 @@ My research interests are broad and varied, I am most passionate about the nexus
 
 ### Hydrologic change in mountain catchments
 
-My current research project at UBC with Dan Moore is titled "_Cumulative effects of climate and land cover change on river flows in mountain catchments_". We are studying the Bridge headwater catchment of the Bridge River, where the 75 km2 Bridge Glacier is located. I recently presented a poster on this research at the AGU conference that can be downloaded here: .
+My current research project at UBC with Dan Moore is titled "_Cumulative effects of climate and land cover change on river flows in mountain catchments_". We are studying the Bridge headwater catchment of the Bridge River, where the 75 km2 Bridge Glacier is located. I recently presented a poster on this research at the AGU conference: [Poster PDF](/research/Pelto_Moore_2021-AGU.pdf).
 
 ### Glaciological and geodetic mass balance
 
