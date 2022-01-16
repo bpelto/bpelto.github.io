@@ -30,7 +30,7 @@ kramdown:
 owner:
   name: Ben Pelto
   avatar: ben_conrad.jpg
-  bio: "Glaciology, climate, hydrology, remote sensing and open science."
+  bio: "Glaciology, hydrology, climate, remote sensing and open science."
   github: bpelto
   orcid: 0000-0002-3488-3599
   scholar: https://scholar.google.com/citations?user=aadGZFMAAAAJ&hl=en
@@ -49,7 +49,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  linkedin: #username
+  linkedin: Ben Pelto
   instagram: #username
   lastfm: #username
   tumblr: #username

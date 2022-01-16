@@ -8,6 +8,10 @@ modified: 2020-08-24
 
 My research interests are broad and varied, I am most passionate about the nexus of climate and the cryosphere, particularly relating to water resources. I am most interested in collecting quality observational data to better inform and validate geodetic data to examine large-scale glacier change, and to use direct observations and remote sensing to calibrate and validate local- to regional- scale physical models of glacier evolution. These topics are outlined here:
 
+### Hydrologic change in mountain catchments
+
+My current research project at UBC with Dan Moore is titled "_Cumulative effects of climate and land cover change on river flows in mountain catchments_". We are studying the Bridge headwater catchment of the Bridge River, where the 75 km2 Bridge Glacier is located. I recently presented a poster on this research at the AGU conference: [Poster PDF](/research/Pelto_Moore_2021-AGU.pdf).
+
 ### Glaciological and geodetic mass balance
 
 <figure>
