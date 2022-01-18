@@ -21,9 +21,9 @@ This is my catalogue of every glacier I have visited, both for work and leisure!
     <figcaption> The terminus of the Bridge Glacier in July 2021. The glacier is still actively calving, but is nearing the end of the lake, and will soon likely be a land-terminating glacier.  </figcaption>
 </figure>
 
-### Garibaldi Ne&eacute;ve&eacute; Traverse Glaciers
+### Garibaldi N&eacute;v&eacute; Traverse Glaciers
 
-On the Garibaldi Ne&eacute;ve&eacute; Traverse, I crossed five glaciers, the Garibaldi, Bishop, North Pitt, Warren, and Sentinel glaciers.
+On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garibaldi, Bishop, North Pitt, Warren, and Sentinel glaciers.
 
 - Garibaldi Glacier
 - Bishop Glacier 
@@ -46,8 +46,8 @@ On the Garibaldi Ne&eacute;ve&eacute; Traverse, I crossed five glaciers, the Gar
 </figure>
 
 <figure>
-    <a href="/images/glacier_catalogue/North_pitt.jpg" >
-    <img src="/images/glacier_catalogue/North_pitt.jpg" alt="missing" width="100%" />
+    <a href="/images/glacier_catalogue/warren.jpg" >
+    <img src="/images/glacier_catalogue/warren.jpg" alt="missing" width="100%" />
     </a>
     <figcaption> We next have a short fun 100 m descent below the Sharkfin, crossing the NW corner of the Warren Glacier for 2 km. </figcaption>
 </figure>
