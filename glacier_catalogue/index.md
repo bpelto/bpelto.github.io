@@ -66,9 +66,11 @@ On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garib
     <figcaption> Our final glacier crossing is the small western part of the Sentinel Glaicier. This arm formerly connected to the main body of the glacier but separated around 2005. The glacier covers about 100 m of the 425 m descent to Garbaldi Lake. Below the glacier, we pass the old Sentinel Bay Glaciology hut, still used by intrepid skiiers. </figcaption>
 </figure>
 
+<embed src="/images/glacier_catalogue/Garibaldi_neve.pdf" width="800px" height="2100px" />
+
 <figure>
     <a href="/images/glacier_catalogue/Garibaldi_neve.pdf" >
-    <embed src="/images/glacier_catalogue/Garibaldi_neve.pdf" alt="missing" width="100%" />
+    <embed src="/images/glacier_catalogue/Garibaldi_neve.pdf" width="100%" />
     </a>
     <figcaption> Overview map of the Garibaldi N&eacute;v&eacute;, purple line is our track from the day. Glaciers have shrunk relative to the topo map outlines.  </figcaption>
 </figure>
