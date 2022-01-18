@@ -12,18 +12,18 @@ This is my catalogue of every glacier I have visited, both for work and leisure!
 
 ## British Columbia
 
-- Bridge Glacier: My study site during my postdoc at UBC with Dan Moore, the Bridge Glacier, a 75 km<sup>2</sup>lake-terminating valley glacier in the southern Coast Mountains of BC.
+- Bridge Glacier: My study site during my postdoc at UBC with Dan Moore, the Bridge Glacier, a 75 km<sup>2</sup> lake-terminating valley glacier in the southern Coast Mountains of BC.
 
 <figure>
     <a href="/images/glacier_catalogue/bridge_terminus_2021.JPG" >
     <img src="/images/glacier_catalogue/bridge_terminus_2021.JPG" alt="missing" width="100%" />
     </a>
-    <figcaption> The terminus of the Bridge Glacier in July 2021. The glacier is still actively calcing, but is nearing the end of the lake, and will soon likely be a land-terminating glacier.  </figcaption>
+    <figcaption> The terminus of the Bridge Glacier in July 2021. The glacier is still actively calving, but is nearing the end of the lake, and will soon likely be a land-terminating glacier.  </figcaption>
 </figure>
 
-### Garibaldi Traverse Glaciers
+### Garibaldi Ne&eacute;ve&eacute; Traverse Glaciers
 
-On the Garibaldi Neve Traverse, I crossed five glaciers, the Garibaldi, Bishop, North Pitt, Warren, and Sentinel glaciers.
+On the Garibaldi Ne&eacute;ve&eacute; Traverse, I crossed five glaciers, the Garibaldi, Bishop, North Pitt, Warren, and Sentinel glaciers.
 
 - Garibaldi Glacier
 - Bishop Glacier 
@@ -35,14 +35,14 @@ On the Garibaldi Neve Traverse, I crossed five glaciers, the Garibaldi, Bishop, 
     <a href="/images/glacier_catalogue/Garibaldi_fran.jpg" >
     <img src="/images/glacier_catalogue/Garibaldi_fran.jpg" alt="missing" width="100%" />
     </a>
-    <figcaption> Mount Garibaldi (2675 m, 8776 ft) looms at center right as sharp rocky peak, with "The Tent" to the right, and Dalton at center, and Atwell Peak to the left. We are skiing across the lobe of the Garibadli and Bishop glaciers. The ice falls above feed the Garibaldi Glacier, but the prominent rock band indicates that the glacier is in the process of detaching, only serac fall can feed the main lobe at center, with a thin connection seen below the tent.   </figcaption>
+    <figcaption> Mount Garibaldi (2675 m, 8776 ft) looms at center right as sharp rocky peak, with "The Tent" to the right, and Dalton at center, and Atwell Peak to the left. We are skiing across the lobe of the Garibadli and Bishop glaciers. The ice falls above feed the Garibaldi Glacier, but the prominent rock band indicates that the glacier is in the process of detaching, only serac fall can feed the main lobe at center, with a thin connection seen below The Tent.   </figcaption>
 </figure>
 
 <figure>
     <a href="/images/glacier_catalogue/North_pitt.jpg" >
     <img src="/images/glacier_catalogue/North_pitt.jpg" alt="missing" width="100%" />
     </a>
-    <figcaption> After crossing the Garibaldi and Bishop glaciers and ascending to 2170 m, we cross the North Pitt Glacier, first by descending to 2000 m avoid crevasses. Here Francois has lost speed and needs to walk a bit before another descent. A party heading south, opposite our direction of travel is below our track.   </figcaption>
+    <figcaption> After crossing the Garibaldi and Bishop glaciers and ascending to 2170 m, we cross the North Pitt Glacier, first by descending to 2000 m avoid crevasses. Here Fran&ccedil;ois has lost speed and needs to walk a bit before another descent. A party heading south, opposite our direction of travel, is below our track.   </figcaption>
 </figure>
 
 <figure>
@@ -53,11 +53,13 @@ On the Garibaldi Neve Traverse, I crossed five glaciers, the Garibaldi, Bishop, 
 </figure>
 
 <figure>
-    <a href="/images/glacier_catalogue/North_pitt.jpg" >
-    <img src="/images/glacier_catalogue/North_pitt.jpg" alt="missing" width="100%" />
+    <a href="/images/glacier_catalogue/sentinel_west.jpg" >
+    <img src="/images/glacier_catalogue/sentinel_west.jpg" alt="missing" width="100%" />
     </a>
     <figcaption> Our final glacier crossing is the small western part of the Sentinel Glaicier. This arm formerly connected to the main body of the glacier but separated around 2005. The glacier covers about 100 m of the 425 m descent to Garbaldi Lake. Below the glacier, we pass the old Sentinel Bay Glaciology hut, still used by intrepid skiiers. </figcaption>
 </figure>
+
+### Cheakamus Divide Traverse (a.k.a. Alcoholic Traverse)
 
 
 ## Alberta
