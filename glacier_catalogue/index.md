@@ -23,13 +23,20 @@ This is my catalogue of every glacier I have visited, both for work and leisure!
 
 ### Garibaldi N&eacute;v&eacute; Traverse Glaciers
 
-On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garibaldi, Bishop, North Pitt, Warren, and Sentinel glaciers.
-
 - Garibaldi Glacier
 - Bishop Glacier 
 - North Pitt Glacier
 - Warren Glacier
 - Sentinel Glacier
+
+On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garibaldi, Bishop, North Pitt, Warren, and Sentinel glaciers. The traverse as Fran&ccedil;ois and I skied it covered 39 km (24.3 miles), gaining 1,800 m (5900 ft) of elevation over 12.5 hours, 9.5 hours of which we were on the move. The primary reason we skiied from south to north was that we would begin at 950 m elevation, starting at the Diamond Head trail head just outside of Squamish, BC, and end at the 555 m elevation at the Rubble Creek trailhead, just south of Whistler, BC -- saving us 400 m of climbing!
+
+<figure>
+    <a href="/images/glacier_catalogue/neve_traverse.jpg" >
+    <img src="/images/glacier_catalogue/neve_traverse.jpg" alt="missing" width="100%" />
+    </a>
+    <figcaption> Overview map of the N&eacute;v&eacute; Traverse, purple line is our track from the day.   </figcaption>
+</figure>
 
 <figure>
     <a href="/images/glacier_catalogue/Garibaldi_fran.jpg" >
@@ -57,6 +64,13 @@ On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garib
     <img src="/images/glacier_catalogue/sentinel_west.jpg" alt="missing" width="100%" />
     </a>
     <figcaption> Our final glacier crossing is the small western part of the Sentinel Glaicier. This arm formerly connected to the main body of the glacier but separated around 2005. The glacier covers about 100 m of the 425 m descent to Garbaldi Lake. Below the glacier, we pass the old Sentinel Bay Glaciology hut, still used by intrepid skiiers. </figcaption>
+</figure>
+
+<figure>
+    <a href="/images/glacier_catalogue/Garibaldi_neve.pdf" >
+    <embed src="/images/glacier_catalogue/Garibaldi_neve.pdf" alt="missing" width="100%" />
+    </a>
+    <figcaption> Overview map of the Garibaldi N&eacute;v&eacute;, purple line is our track from the day. Glaciers have shrunk relative to the topo map outlines.  </figcaption>
 </figure>
 
 ### Cheakamus Divide Traverse (a.k.a. Alcoholic Traverse)
