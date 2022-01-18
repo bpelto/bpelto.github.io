@@ -68,7 +68,7 @@ On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garib
 
 <figure>
     <a href="/images/glacier_catalogue/Garibaldi_neve.png" >
-    <embed src="/images/glacier_catalogue/Garibaldi_neve.png" width="100%" />
+    <embed src="/images/glacier_catalogue/Garibaldi_neve.png" alt="missing" width="100%" />
     </a>
     <figcaption> Overview map of the Garibaldi N&eacute;v&eacute;, purple line is our track from the day. Glaciers have shrunk relative to the topo map outlines.  </figcaption>
 </figure>
