@@ -68,7 +68,7 @@ On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garib
 
 <figure>
     <a href="/images/glacier_catalogue/Garibaldi_neve.png" >
-    <embed src="/images/glacier_catalogue/Garibaldi_neve.png" alt="missing" width="100%" />
+    <img src="/images/glacier_catalogue/Garibaldi_neve.png" alt="missing" width="100%" />
     </a>
     <figcaption> Overview map of the Garibaldi N&eacute;v&eacute;, purple line is our track from the day. Glaciers have shrunk relative to the topo map outlines.  </figcaption>
 </figure>
@@ -76,72 +76,19 @@ On the Garibaldi N&eacute;v&eacute; Traverse, I crossed five glaciers, the Garib
 ### Cheakamus Divide Traverse (a.k.a. Alcoholic Traverse)
 
 
+The Cheakamus Divide Traverse has a number of variations, in April 2021, Marco, Fran&ccedil;ois and I completed the traverse from south to north, starting at kilometer 4 of the Branch 200 forest service road off of the Squamish Valley Road... 4-6 km short and 400-600 m below where Marco had planned us to start. The first 5km were a brutal slog, the snow undulating from heavy snowmobile traffic with waves shorter than our skis, and occasional bare patches requiring us to remove our skis. The views heading up the valley on the hummucked road were stunning, and after 6.5 km and 650 m of climbing, we broke off the road...only to find 25 cms of fresh powder in which we now had to break trail. At this point, I was more than a little nervous about our prospects to complete the traverse, not only would it be the farthest that any of us had skiied, but we had added 5+ km 500+m to our original plan, which I had already thought a bit ambitious, and now were facing how many km of trailbreaking?
+
+....continue story when I find the time .....
+
+After crossing two small lakes and then Seagram Lake, we swung NE to climb towards Cypress Peak. We crossed a tiny lake, and skirted along the side of an unnamed glacier, which I'll call West Cypress Glacier. The glacier is small, 0.22 km2 in 2020, large enough to be in the Randolph Glacier Inventory (RGI), but like many small glaciers in the region, is not contained in the RGI. We then skirted the ridge above another nearby unnamed glacier and countoured up valley, passing below Mt. Fee, and then descending towards Grizzly Lake. A kilometer before reaching the lake, we swung back uphill, accessing another pair of unnamed glaciers emptying from the southern end of the Powder Mountain Icefield. I'll refer to these two glaciers as the North Cayley Glacier and Sorth Cayley Glacier as they both begin below the summit of Mt. Cayley. Climbing these glaciers, we were on a veritable snowmobile highway that had so many tracks it looked groomed. For the next 9 km, we crossed the icefield, a long gradual ascent with a long gradual descent, crossing two more large unnamed glaciers, which I'll refer to as the West Powder Glacier, as it flows west from Powder Mountain, and the Calpow Glacier, as it begins on the flank of Calpow, a peak on the Slag Hill ridge. Finally, as the sun began to set, we removed our skins and began the descent of the Solitude Glacier, the best skiing of the trip. 
+
+
+
 ## Alberta
 
 ## United States
 
 ## Africa
-
-### Glaciological and geodetic mass balance
-
-<figure>
-    <a href="/images/research/" >
-    <img src="/images/research/conrad_elev_change_hshd_2014_2018.png" alt="missing" width="100%" />
-    </a>
-    <figcaption>Figure: Conrad Glacier LiDAR-derived annual surface height change for (left to right) 2014--2015, 2015--2016, 2016--2017, 2017--2018, and cumulatively 2014--2018. </figcaption>
-</figure>
-
-**Relevant publications:** 
-- [Pelto et al., (2019) Multi-year evaluation of airborne geodetic surveys to estimate seasonal mass balance, Columbia and Rocky Mountains, Canada](https://tc.copernicus.org/articles/13/1709/2019/)
-- [Menounos et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080942)
-
-### Ice dynamics modeling at local and regional scales
-
-Pelto et al. (2020) Bias-corrected estimates of glacier thickness in the Columbia River Basin, Canada.
-
-<figure>
-    <a href="/images/research/JOG-20-0065_Figure2.png" >
-    <img src="/images/research/JOG-20-0065_Figure2.png" alt="missing" width="100%" />
-    </a>
-    <figcaption>Figure: Ice thickness measurements (Table 2) for (a) Kokanee, (b) Haig, (c) Conrad, (d) West Washmawapta, (e) Illecillewaet, (f) Nordic and (g) Zillmer glaciers. Coordinates are °N and °W. Scale differs among glaciers. Figures S1–S7 contain detailed maps with LiDAR DEM hillshades.</figcaption>
-</figure>
-
-<figure>
-    <a href="/images/research/JOG-20-0065_Figure6.png" >
-    <img src="/images/research/JOG-20-0065_Figure6.png" alt="missing" width="100%" />
-    </a>
-    <figcaption>Figure: Optimized ice thickness for (a) Kokanee, (b) Haig, (c) Conrad, (d) West Washmawapta, (e) Illecillewaet, (f) Nordic and (g) Zillmer glaciers. </figcaption>
-</figure>
-
-**Relevant publications:** 
-[Pelto et al., 2020](https://www.cambridge.org/core/journals/journal-of-glaciology/article/biascorrected-estimates-of-glacier-thickness-in-the-columbia-river-basin-canada/E8DCB7FAF1A5DF21CC529ADA6844B1B4).
-
-### Mass balance gradients from ice flux
-Currently in review in the Journal of Geophysical Research
-
-### Current Projects
-* [Cumulative effects of climate and land cover change on river flows in mountain catchments]() (2020-2022, Postdoc)
-* [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2022, co-PI)
-
-
-<figure>
-    <a href="/images/research/Kokanee_terminus_2015_2021.gif" >
-    <img src="/images/research/Kokanee_terminus_2015_2021.gif" alt="missing" width="100%" />
-    </a>
-    <figcaption>GIF: Kokanee Glacier terminus 2015-2021 from 1-m-resolution LiDAR DEMs. Retreat of 140 m, 23 m year.  </figcaption>
-</figure>
-
-* [Surface mass-balance gradients from elevation and ice flux data in the Columbia Basin, Canada]() (2020-2021, PhD)
-
-### Past Projects
-* [Canadian Columbia Basin Glacier and Snow Research Network](https://ourtrust.org/?ddownload=19532)(2014--2020, PhD)
-* [Pelto et al., 2020](https://www.cambridge.org/core/journals/journal-of-glaciology/article/biascorrected-estimates-of-glacier-thickness-in-the-columbia-river-basin-canada/E8DCB7FAF1A5DF21CC529ADA6844B1B4) (2015--2020, PhD)
-* [Pelto et al., (2019) Multi-year evaluation of airborne geodetic surveys to estimate seasonal mass balance, Columbia and Rocky Mountains, Canada](https://tc.copernicus.org/articles/13/1709/2019/) (2014--2019, PhD)
-
-
-### Grants
-* [BC Parks Living Labs: Kokanee Glacier mass balance](https://bcparks.ca/partnerships/living-labs/research-projects/) (2021-2022, co-PI, $10,000)
-* [BC Parks Living Labs: Kokanee Glacier Climate Project](https://bcparks.ca/partnerships/living-labs/research-projects/) (2020-2021, co-PI, $10,000)
 
 Panorama: The upper portion of the valley tongue of Conrad Glacier in 2018.
 

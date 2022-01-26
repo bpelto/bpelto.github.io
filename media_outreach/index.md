@@ -5,7 +5,7 @@ image:
 title: "Media coverage and outreach"
 ---
 
-## Media Articles (selection)
+## Media Articles (selected)
 - [Vancouver Sun, B.C. glaciers 38 per cent thicker than expected, surprising study finds](https://vancouversun.com/news/local-news/b-c-glaciers-38-per-cent-thicker-than-expected-surprising-study-finds)
 - [GlacierHub, Glaciers in Canada Found To Be Thicker Than Previously Suggested](https://blogs.ei.columbia.edu/2020/11/19/thicker-glaciers-canada/)
 - [PICS, First major study of Columbia Basin reveals glaciers are 38% thicker than originally thought](https://pics.uvic.ca/research/first-major-study-columbia-basin-reveals-glaciers-are-38-thicker-originally-thought).
@@ -44,7 +44,7 @@ title: "Media coverage and outreach"
 
 ## Online presentations 
 
-- [Webinar, Glaciers in the Candaian Columbia Basin (14 min)](https://youtu.be/Ce3wEzEva48?t=2283) 
+- [Webinar, Glaciers in the Canadian Columbia Basin (14 min)](https://youtu.be/Ce3wEzEva48?t=2283) 
 - [Monitoring British Columbia Glaciers (2.5 min)](https://www.youtube.com/watch?v=bEzAA-lkpQ4)
 - [Multi-faceted Approach to Studying Glacier Mass Change in the Columbia and Rocky Mountains (18 min)](https://www.youtube.com/watch?v=0KA5J0AF3zU)
 - [Attributing mountain glacier retreat to climate change (8 min)](https://youtu.be/7MhTuTnJJlY?t=1095)
