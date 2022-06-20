@@ -11,6 +11,8 @@ modified: 2020-22-08
 I taught two 20-student 3-hour lab sections of Geomorphology 210 as a lab instructor. I greatly enjoyed the experience, but did not work as a TA again at UNBC due to field work demands of the [CCRBSGRN](https://ourtrust.org/new-research-available-columbia-basin-glaciers/) and the data-intensive nature of my PhD.
 
 I have also given a number of guest lectures:
+- 2022, Snow and Ice 454, Glacier mass balance, UNBC 
+
 - 2021, Arctic and Alpine Environments GE397, _Glacier Mass Balance and Glacier Runoff_, Colby College, Maine
 
 - 2021, Snow and Ice 454, _Glacier mass balance_, UNBC [Lecture slides](/teaching/glacier_mass_balance_snow_and_ice_lecture2021.pdf)
