@@ -6,6 +6,8 @@ title: "Media coverage and outreach"
 ---
 
 ## Media Articles (selected)
+- [Vancouver Sun, B.C.'s iconic Kokanee Glacier in rapid decline, says B.C. scientist](https://vancouversun.com/news/local-news/kokanee-glacier-in-decline)
+- [CBC Newsroom (video)](https://www.instagram.com/tv/CctjYHkjqtX/?utm_source=ig_web_copy_link)
 - [Vancouver Sun, B.C. glaciers 38 per cent thicker than expected, surprising study finds](https://vancouversun.com/news/local-news/b-c-glaciers-38-per-cent-thicker-than-expected-surprising-study-finds)
 - [GlacierHub, Glaciers in Canada Found To Be Thicker Than Previously Suggested](https://blogs.ei.columbia.edu/2020/11/19/thicker-glaciers-canada/)
 - [PICS, First major study of Columbia Basin reveals glaciers are 38% thicker than originally thought](https://pics.uvic.ca/research/first-major-study-columbia-basin-reveals-glaciers-are-38-thicker-originally-thought).
@@ -43,7 +45,7 @@ title: "Media coverage and outreach"
 - 2015-2017  From a Glacier’s Perspective, Guest blog posts: [Spring 2015](http://blogs.agu.org/fromaglaciersperspective/2015/06/15/kokanee-glacier-spring-2015-assessment-british-columbia/), [Spring 2016](http://blogs.agu.org/fromaglaciersperspective/2016/06/23/canadian-columbia-basin-glacier-spring-2016-field-season-winter-2015-2016-assessment/), [Fall 2016](http://blogs.agu.org/fromaglaciersperspective/2016/12/28/canadian-columbia-basin-glacier-fall-2016-field-season/), [Spring 2017 ](https://blogs.agu.org/fromaglaciersperspective/2017/08/14/canadian-columbia-river-basin-winter-2016-2017-late-rally/)
 
 ## Online presentations 
-
+- [Historic and Future Post-Retreat Land-Cover Evolution at Bridge Glacier, Canada (14 min)](https://youtu.be/X9oQSbqsRdo?t=3555)
 - [Webinar, Glaciers in the Canadian Columbia Basin (14 min)](https://youtu.be/Ce3wEzEva48?t=2283) 
 - [Monitoring British Columbia Glaciers (2.5 min)](https://www.youtube.com/watch?v=bEzAA-lkpQ4)
 - [Multi-faceted Approach to Studying Glacier Mass Change in the Columbia and Rocky Mountains (18 min)](https://www.youtube.com/watch?v=0KA5J0AF3zU)
