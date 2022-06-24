@@ -7,7 +7,7 @@ title: "Media coverage and outreach"
 
 ## Media Articles (selected)
 - [Vancouver Sun, B.C.'s iconic Kokanee Glacier in rapid decline, says B.C. scientist](https://vancouversun.com/news/local-news/kokanee-glacier-in-decline)
-- [CBC Newsroom (video)](https://www.instagram.com/tv/CctjYHkjqtX/?utm_source=ig_web_copy_link)
+- [Wired, It’s Hard to Do Climate Research When Your Glacier Is Melting](https://www.wired.co.uk/article/glacier-melting-climate-research)
 - [Vancouver Sun, B.C. glaciers 38 per cent thicker than expected, surprising study finds](https://vancouversun.com/news/local-news/b-c-glaciers-38-per-cent-thicker-than-expected-surprising-study-finds)
 - [GlacierHub, Glaciers in Canada Found To Be Thicker Than Previously Suggested](https://blogs.ei.columbia.edu/2020/11/19/thicker-glaciers-canada/)
 - [PICS, First major study of Columbia Basin reveals glaciers are 38% thicker than originally thought](https://pics.uvic.ca/research/first-major-study-columbia-basin-reveals-glaciers-are-38-thicker-originally-thought).
@@ -21,6 +21,7 @@ title: "Media coverage and outreach"
 
 
 ## Media interviews
+- [CBC Newsroom (video)](https://www.cbc.ca/player/play/2026107971784)
 - [CBC, Study reveals thicker BC glaciers (TV)](https://twitter.com/cbcnewsbc/status/13318056283942?lang=en)
 - [Vancouver Sun, B.C. glaciers 38 per cent thicker than expected, surprising study finds (Video)](https://www.youtube.com/watch?v=RwC2yOBbQug)
 - [CBC, Wildfires turning Canada's glaciers black (TV)](https://www.youtube.com/watch?v=IS9I96TgcB4&t=7s)
